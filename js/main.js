@@ -23,6 +23,13 @@ $(document).ready(function () {
 			if (result.isConfirmed) {
 				Swal.fire("Compra confirmada", "¡Que lo disfrutes!", "success");
 				vaciarCarrito();
+			} else {
+				Swal.fire({
+					position: "top-end",
+					title: "Segui comprando!",
+					showConfirmButton: false,
+					timer: 1500,
+				});
 			}
 		});
 	});

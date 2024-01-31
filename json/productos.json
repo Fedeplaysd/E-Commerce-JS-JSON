@@ -31,25 +31,25 @@
 }, {
     "id": 6,
     "tipo": "Procesador",
-    "nombre": "Intel i7 12400F",
+    "nombre": "Intel i7 12400F S/G",
     "precio": 500000,
     "foto": "./media/intelI7.jpg"
 }, {
     "id": 7,
     "tipo": "Procesador",
-    "nombre": "Intel i5 12400F C/G",
+    "nombre": "Intel i5 12400F S/G",
     "precio": 352000,
     "foto": "./media/intelI5.jpg"
 }, {
     "id": 8,
     "tipo": "Procesador",
-    "nombre": "AMD Ryzen 9 7600K",
+    "nombre": "AMD Ryzen 9 7600K S/G",
     "precio": 793000,
     "foto": "./media/ryzen9.jpg"
 }, {
     "id": 9,
     "tipo": "Procesador",
-    "nombre": "AMD Ryzen 7 5800DX3",
+    "nombre": "AMD Ryzen 7 5800DX3 C/G",
     "precio": 750600,
     "foto": "./media/ryzen7.jpg"
 }, {
@@ -73,13 +73,13 @@
 }, {
     "id": 13,
     "tipo": "Fuente",
-    "nombre": "ThermalTake Ligthning 850W 80+ Bronce",
+    "nombre": "CoolMoon Ligthning 850W 80+ Bronce",
     "precio": 92530,
     "foto": "./media/FuenteThermalTake.jpg"
 }, {
     "id": 14,
     "tipo": "Placa Madre",
-    "nombre": "AsRock 7631F DDR6",
+    "nombre": "Asus 7631F DDR6",
     "precio": 235950,
     "foto": "./media/placaMadreASROCK.jpg"
 }, {
